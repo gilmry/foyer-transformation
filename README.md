@@ -7,6 +7,14 @@ Le kit s'inspire des modèles de conduite du changement par étapes individuelle
 - **développeurs**, pour l'autopilote Foyer (pipeline BMAD, gates, mise en ligne par [Sluis](https://github.com/gilmry/sluis)) ;
 - **dirigeants**, pour Foyer comme méthode de gouvernance (objectiver les choix technologiques, garder la responsabilité humaine).
 
+## Contenu
+
+- [`principes.md`](principes.md) : comment le kit travaille.
+- [`etapes/`](etapes/) : les six étapes, chacune avec son but, son entrée, sa sortie vérifiable et ses deux déclinaisons.
+- [`diagnostic/questionnaire.md`](diagnostic/questionnaire.md) : le questionnaire de base pour situer où l'organisation bloque.
+
+Les supports de formation détaillés, les exercices et les retours d'accompagnement sont tenus dans un dépôt privé.
+
 ## Statut
 
 **Brouillon.** Rien ici n'a encore été éprouvé chez un client. Le kit ne délivre aucune certification et ne promet aucun résultat.
